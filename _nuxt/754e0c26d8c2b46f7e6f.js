@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{139:function(t,e,o){"use strict";o.r(e);var n=o(18),l=Object(n.a)({},function(){var t=this.$createElement;return(this._self._c||t)("a",{attrs:{href:"http://google.com"}},[this._v("google.com")])},[],!1,null,null,null);l.options.__file="about.vue";e.default=l.exports}}]);
